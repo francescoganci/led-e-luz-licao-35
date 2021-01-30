@@ -1,0 +1,22 @@
+{
+    "name": "led e luz licao 35",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "maqueen": "github:jhlucky/maqueen#b1b7ea1d6837c831d00ee3d51393f0adbb6188ba",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
