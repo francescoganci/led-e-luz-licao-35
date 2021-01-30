@@ -1,5 +1,5 @@
 {
-    "name": "led e luz licao 35",
+    "name": "led que liga com  sensor touch luz licao 35r",
     "description": "",
     "dependencies": {
         "core": "*",
